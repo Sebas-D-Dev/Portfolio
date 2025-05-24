@@ -1,7 +1,3 @@
----
-title: Welcome to my blog
----
-
 # Sebastian's Portfolio  
 **Software Engineer | Full-Stack Developer | Creative Technologist**
 
@@ -12,11 +8,11 @@ Welcome to my GitHub portfolio! I build scalable applications, refine software a
 ## 🔥 About Me  
 I'm a proactive developer passionate about full-stack development and creative problem-solving. Whether it's implementing SOLID principles, designing efficient algorithms, or crafting immersive text-based games, I strive to build meaningful software.  
 
-- 🔹 **Current Internship:** Software Engineer Intern @ Cinch Home Services  
-- 🔹 **Languages:** Python, JavaScript, TI-Basic  
+- 🔹 **Current Internship:** Student Affairs IT
+- 🔹 **Languages:** Python, JavaScript, HTML, CSS
 - 🔹 **Key Skills:** Flask, React, SQLite, MongoDB, OOP, Design Patterns  
 
-Feel free to check out my [GitHub profile](YOUR_GITHUB_PROFILE_LINK) for more details on my work.
+Feel free to check out my [GitHub profile](https://github.com/Sebas-D-Dev) for more details on my work.
 
 ---
 
@@ -50,15 +46,15 @@ A visually captivating gallery app with a green-and-blue aesthetic, designed wit
 ---
 
 ## ✨ Other Projects & Contributions  
-Explore more on my GitHub: [Sebastian's GitHub](YOUR_GITHUB_PROFILE_LINK).  
+Explore more on my GitHub: [My GitHub](https://github.com/Sebas-D-Dev).  
 Got a project idea? Let’s connect!
 
 ---
 
 ## 📬 Get In Touch  
-- LinkedIn: [YOUR_LINKEDIN_PROFILE]  
-- Email: [YOUR_EMAIL_ADDRESS]  
-- Website: [YOUR_PERSONAL_WEBSITE (if applicable)]  
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/sebastian-torres-cs/)  
+- Email: [My Email](sebas.t.nait@gmail.com)  
+- Website: [[My latest portfolio](https://sebas-d-dev.github.io/portfolio-v2/)]  
 
 Let's collaborate and build something great together! 🚀  
 
